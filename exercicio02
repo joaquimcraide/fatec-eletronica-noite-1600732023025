@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T20:15:31.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="USUJwg5LBqiSGVc4g5bi" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T20:50:06.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="RX2OBgM44JyEQrEvuf3d" version="14.4.8" type="github">
   <diagram id="E2Lgzul04UOGvxmTJMiB" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,38 @@
         <mxCell id="Ie2UfjfopqFr1GbaYosB-1" value="inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="245" y="30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie2UfjfopqFr1GbaYosB-2" value="declaração das variaveis&lt;br&gt;e_cpf_pos9&lt;br&gt;e_cpf_pos8&lt;br&gt;e_cpf_pos7&lt;br&gt;e_cpf_pos6&lt;br&gt;e_cpf_pos5&lt;br&gt;e_cpf_pos4&lt;br&gt;e_cpf_pos3&lt;br&gt;e_cpf_pos2&lt;br&gt;e_cpf_pos1" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-2" value="declaração das variaveis&lt;br&gt;e_cpf_pos9&lt;br&gt;e_cpf_pos8&lt;br&gt;e_cpf_pos7&lt;br&gt;e_cpf_pos6&lt;br&gt;e_cpf_pos5&lt;br&gt;e_cpf_pos4&lt;br&gt;e_cpf_pos3&lt;br&gt;e_cpf_pos2&lt;br&gt;e_cpf_pos1&lt;br&gt;e_cpf_div2,e_cpf_div1&lt;br&gt;div2_calc,div1_calc" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="160" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-3" value="IMPRIM CPF&lt;br&gt;[123456789] - CODICO [12] PULA UMA LINHA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-11" value="DIGITE O 1º DIGITO DO CPF&lt;br&gt;ENTRE COM O VALOR DO 9ª NUMERO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-12" value="&lt;span&gt;DIGITE O 2ª DIGITO DO CPF&lt;/span&gt;&lt;br&gt;&lt;span&gt;ENTRE COM O VALOR DO 8º NUMERO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="670" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-13" value="&lt;span&gt;DIGITE O 3º DIGITO DO CPF&lt;/span&gt;&lt;br&gt;&lt;span&gt;ENTRE COM O VALOR DO 7ª NUMERO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="800" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-14" value="&lt;span&gt;DIGITE O 4º DIGITO DO CPF&lt;/span&gt;&lt;br&gt;&lt;span&gt;ENTRE COM O VALOR DO 6ºNUMERO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="960" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-16" value="&lt;span&gt;DIGITE O 5º DIGITO DO CPF&lt;/span&gt;&lt;br&gt;&lt;span&gt;ENTRE COM O VALOR DO 5º NUMERO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1090" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-19" value="&lt;span&gt;DIGITE O 6ºDIGITO DO CPF&lt;/span&gt;&lt;br&gt;&lt;span&gt;ENTRE COM O VALOR DO 4ºNUMERO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1280" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-20" value="&lt;span&gt;DIGITE O 8ºDIGITO DO CPF&lt;/span&gt;&lt;br&gt;&lt;span&gt;ENTRE COM O VALOR DO 2ºNUMERO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1580" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-21" value="&lt;span&gt;DIGITE O 7ºDIGITO DO CPF&lt;/span&gt;&lt;br&gt;&lt;span&gt;ENTRE COM O VALOR DO 3º NUMERO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1420" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie2UfjfopqFr1GbaYosB-22" value="&lt;span&gt;DIGITE O 9ºDIGITO DO CPF&lt;/span&gt;&lt;br&gt;&lt;span&gt;ENTRE COM O VALOR DO 1ºNUMERO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1740" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
