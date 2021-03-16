@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T21:07:22.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="-8vd7yjy8yOrnXNHOJGI" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T21:08:45.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="j5BCjEUpIocG8L3m-lJC" version="14.4.8" type="github">
   <diagram id="E2Lgzul04UOGvxmTJMiB" name="Page-1">
     <mxGraphModel dx="1935" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4m0wOTyPHlPfzBaWL4IG-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ie2UfjfopqFr1GbaYosB-1" target="Ie2UfjfopqFr1GbaYosB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ie2UfjfopqFr1GbaYosB-1" value="inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="245" y="30" width="100" height="60" as="geometry" />
         </mxCell>
