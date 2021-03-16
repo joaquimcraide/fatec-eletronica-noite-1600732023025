@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T20:28:59.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="PwJLteuznvBJN79pnZRs" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T20:35:36.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="MA1tUC_tSWf9uNFvKOYl" version="14.4.8" type="github">
   <diagram id="E2Lgzul04UOGvxmTJMiB" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,10 +104,10 @@
         <mxCell id="4m0wOTyPHlPfzBaWL4IG-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="2490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m0wOTyPHlPfzBaWL4IG-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2490" width="120" height="60" as="geometry" />
+        <mxCell id="4m0wOTyPHlPfzBaWL4IG-22" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;mostrar no valor de calculo 1 o valor de calculo 1 mais calculo 2multiplicado por 2&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m0wOTyPHlPfzBaWL4IG-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4m0wOTyPHlPfzBaWL4IG-23" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;UMAo resultado do calculo acima somar 2ºdigito multiplicado por 4 mais o 1º digito multiplicado por 3&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m0wOTyPHlPfzBaWL4IG-24" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;O valor do calculo acimasomar com6ª multiplicado por8 mais5ºdigito vezes sete&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
