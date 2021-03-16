@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T20:58:37.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="3BUvsvCp5lAYj7N453Ph" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T21:04:35.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="iJx4xPqraBzhmeFigejD" version="14.4.8" type="github">
   <diagram id="E2Lgzul04UOGvxmTJMiB" name="Page-1">
     <mxGraphModel dx="1935" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,19 +131,16 @@
         <mxCell id="4m0wOTyPHlPfzBaWL4IG-15" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;entra com o valor de do 9º digitomultiplicado por 11mais o8 ° multiplicado por 10&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="2540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4m0wOTyPHlPfzBaWL4IG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4m0wOTyPHlPfzBaWL4IG-20">
+        <mxCell id="4m0wOTyPHlPfzBaWL4IG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="3360" as="targetPoint" />
+            <mxPoint x="25" y="3290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4m0wOTyPHlPfzBaWL4IG-20" value="MOSTRAR CALCULO 1 = 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="3220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4m0wOTyPHlPfzBaWL4IG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4m0wOTyPHlPfzBaWL4IG-21" target="4m0wOTyPHlPfzBaWL4IG-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4m0wOTyPHlPfzBaWL4IG-21" value="mostrar em calculo 1&lt;br&gt;=11- [11-CALCULO *11/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="3230" width="120" height="60" as="geometry" />
+        <mxCell id="4m0wOTyPHlPfzBaWL4IG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="4m0wOTyPHlPfzBaWL4IG-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="3290" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4m0wOTyPHlPfzBaWL4IG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4m0wOTyPHlPfzBaWL4IG-22" target="4m0wOTyPHlPfzBaWL4IG-26">
           <mxGeometry relative="1" as="geometry" />
@@ -163,8 +160,10 @@
         <mxCell id="4m0wOTyPHlPfzBaWL4IG-24" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;O valor do calculo acimasomar com6ª multiplicado por8 mais5ºdigito vezes sete&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="2670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m0wOTyPHlPfzBaWL4IG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4m0wOTyPHlPfzBaWL4IG-26" target="4m0wOTyPHlPfzBaWL4IG-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4m0wOTyPHlPfzBaWL4IG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4m0wOTyPHlPfzBaWL4IG-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459" y="3228.98" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4m0wOTyPHlPfzBaWL4IG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4m0wOTyPHlPfzBaWL4IG-26">
           <mxGeometry relative="1" as="geometry">
@@ -185,6 +184,12 @@
         </mxCell>
         <mxCell id="4m0wOTyPHlPfzBaWL4IG-59" value="calculo 2= 11-[11*calculo2/100]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="2430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4m0wOTyPHlPfzBaWL4IG-64" value="calculo1=0" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="3220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4m0wOTyPHlPfzBaWL4IG-65" value="&lt;span&gt;mostrar em calculo 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;=11- [11-CALCULO *11/100&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
