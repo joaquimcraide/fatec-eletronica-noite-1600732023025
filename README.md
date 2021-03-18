@@ -1,1 +1,0 @@
-# fatec-eletronica-noite-1600732023025
